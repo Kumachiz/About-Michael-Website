@@ -1,0 +1,83 @@
+html{
+	padding: 2%;
+	background-color:sandybrown;
+}
+body{
+	background-color:sandybrown;
+}
+nav {
+	float: right;
+	color: white;
+	text-emphasis-color: orange;
+	text-transform: uppercase;
+	background-color: #dddddd;
+	padding-left: 12px;
+	height: 25px;
+	width: 120px;
+	padding-top: 8px;
+ 	display: block;
+ }
+.why {
+	padding: 16px;
+
+}
+.hobbies {
+	margin: 16px;
+  border: 3px;
+  padding: 6px;
+	background-color: rgb(255, 246, 240);
+	float: bottom;
+	padding-right: 5%;
+	border-style:groove;
+	border-color: lightsalmon;
+}
+img {
+	padding: 0%;
+}
+.caption {
+ color: navy;
+}
+.span {
+	color: green;
+}
+a:visited {
+	text-decoration: underline;
+	@font-face {
+	  font-family: 'Glyphicons Halflings';
+
+	  src: url('../fonts/glyphicons-halflings-regular.eot');
+	  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+	}
+
+	.row {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 0 4px;
+	}
+	.column {
+		flex: 25%;
+		max-width: 25%;
+		padding: 0 4px;
+	}
+	.column img {
+		margin-top: 8px;
+		vertical-align: middle;
+		width: 100%;
+	}
+	@media screen and (max-width: 800px) {
+		.column {
+			flex: 50%;
+			max-width: 50%;
+		}
+	}
+	@media screen and (max-width: 600px) {
+		.column {
+			flex: 100%;
+			max-width: 100%;
+		}
+	}
+	{
+		box-sizing: border-box;
+	}
+
+	
