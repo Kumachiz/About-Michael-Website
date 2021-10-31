@@ -1,0 +1,41 @@
+[33mcommit 3b9b3d35d29c4a6a81d46fd3e2d18f0b8c816f87[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mmmz/main[m[33m)[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 31 02:47:37 2021 -0700
+
+    Fixed the linking of index.html on all pages so that it doesn't display About.html
+
+[33mcommit 4b147847a31b1d7c63ed5d95e64132d35ffee3cb[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 31 02:45:13 2021 -0700
+
+    Fixed Indentation and Spacing
+
+[33mcommit 1f783c06f478e1d3e6684efac7adec4499f96c1c[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 31 02:37:55 2021 -0700
+
+    Deleted scripts.js from the js folder
+
+[33mcommit 569a5f5cf725213e08f69efb4fa8ca7a13b3887b[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 31 02:36:02 2021 -0700
+
+    Add instructions on how to access the index.html file when the project is cloned
+
+[33mcommit 52cd80b9a0168314af6deb464d04f210b1ba12c0[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 31 02:29:44 2021 -0700
+
+    Add strong ol usablity in on the index.html page.
+
+[33mcommit f15d169e5400a6fb95963e35f0a9d4f576e26fe2[m[33m ([m[1;31mmm/main[m[33m)[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 24 03:10:48 2021 -0700
+
+    Added a readme file
+
+[33mcommit b3a67da20bda9fb7573490f4dd6050e6ea811675[m
+Author: Michael Munyaneza <kuamchiz@gmail.com>
+Date:   Sun Oct 24 02:51:05 2021 -0700
+
+    second attempt to push into the repo - reset the repo twice
