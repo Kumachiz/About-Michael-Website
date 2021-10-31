@@ -7,6 +7,7 @@ _This is a website created to display the basic information about myself using h
 
 ## Setup/Installation Requirements
 
+* To access the index.html file, open the About project folder and all the html pages will be inside that folder.
 * [_Go to my Git Hub link_](https://kumachiz.github.io/project12021/)
 * _Now that you're on the website page, you can learn the basic information about me._
 
