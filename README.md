@@ -8,7 +8,8 @@ _This is a website created to display the basic information about myself using h
 ## Setup/Installation Requirements
 
 * To access the index.html file, open the About project folder and all the html pages will be inside that folder.
-* [_Go to my Git Hub link_](https://kumachiz.github.io/project12021/)
+* If you need to clone my project via the command line you will need to use "git clone followed by url (https://github.com/Kumachiz/About-Michael-Website)
+* To access the website and test it's functionality without downloading the project files [_Got to my gh pages url_](https://kumachiz.github.io/About-Michael-Website/)
 * _Now that you're on the website page, you can learn the basic information about me._
 
 _{This page is written using HTML, CSS and some Javascript}_
